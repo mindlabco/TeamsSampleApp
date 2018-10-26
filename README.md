@@ -1,5 +1,6 @@
 
 # TeamsSampleApp
+This app is a sample app for microsoft Teams. Sample echobot and tab will be added to Microsoft Teams using this app.
 
 # Prerequisites
 •	Visual Studio 2017
